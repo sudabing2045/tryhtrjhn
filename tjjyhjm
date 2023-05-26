@@ -1,0 +1,7 @@
+echo "# tryhtrjhn" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M sudabing
+git remote add origin https://github.com/sudabing2045/tryhtrjhn.git
+git push -u origin sudabing
